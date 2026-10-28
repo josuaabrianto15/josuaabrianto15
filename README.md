@@ -23,4 +23,4 @@ Saya adalah mahasiswa **Software Engineering Technology** di **IPB University** 
 ### 📬 Hubungi Saya
 
 - 📧 Email: [josuaabrianto15@gmail.com](mailto:josuaabrianto15@gmail.com)
-- 🔗 LinkedIn: [Josua Abrianto Harianja](https://www.linkedin.com/in/josua-abrianto-harianja-74a704328)
+- 🔗 Linkedin: [Josua Abrianto Harianja](https://www.linkedin.com/in/josua-abrianto-harianja-74a704328)
